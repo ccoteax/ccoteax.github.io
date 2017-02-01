@@ -4,6 +4,12 @@
  * In dit bestand staat alle javascript code
  * om ons spel te laten werken.
  *
+ *
+ * PLEASE DON'T COPY THIS SCRIPT!
+ *
+ * THE HTML FILE HAS BEEN EDITED PLEASE USE THE ONE
+ * INCLUDED!
+ *
  **************************************************/
 
 var game = document.getElementById('speelveld');
@@ -124,3 +130,11 @@ function refreshGame(number) {
     document.winner = null;
 }
 
+/***************************************************
+ * The Tic Tac Toe Project
+ * -------------------------------------------------
+ * COPYRIGHT 2017
+ * DION DE JONG
+ * ITB4-1C
+ * Alfa-College
+ **************************************************/
